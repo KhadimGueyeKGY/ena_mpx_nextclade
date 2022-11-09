@@ -21,7 +21,7 @@ This repository allows determining the different clades and lineages with Nextcl
  ## Output
  
    * output/nextclade.csv
-   * output/nexclade.tsv
+   * output/nextclade.tsv
    * output/tree.json
 
 
