@@ -7,10 +7,14 @@
 ## Installation 
 
 ```
-
+git clone https://github.com/KhadimGueyeKGY/ena_mpx_nextclade.git
 ```
 
 ## Usage
+
+```
+python ena_mpx_nextclade.py
+```
 
 ## Output
 
