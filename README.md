@@ -1,6 +1,6 @@
 # ena_mpx_nextclade
 
-This repository allows determining the different clades and lineages with Nextclade using the Monkeypox data from ENA. 
+This repository allows determining the different clades and lineages with Nextclade of Monkeypox data from ENA. 
 
   ## Requirements
 
