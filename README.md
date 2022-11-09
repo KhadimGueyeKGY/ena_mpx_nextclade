@@ -1,8 +1,10 @@
 # ena_mpx_nextclade
 
 
-## Installation
+## Installation 
 
+  * install nextckade
+  * Dowloading the analysis pipeline
 
 ## Usage
 
