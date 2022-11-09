@@ -1,21 +1,27 @@
 # ena_mpx_nextclade
 
-## Requirements
+This repository allows determining the different clades and lineages with Nextclade using the Monkeypox data from ENA. 
 
-  * install nextckade https://docs.nextstrain.org/projects/nextclade/en/stable/user/nextclade-cli.html#
+  ## Requirements
 
-## Installation 
+   * install nextclade https://docs.nextstrain.org/projects/nextclade/en/stable/user/nextclade-cli.html#
 
-```
-git clone https://github.com/KhadimGueyeKGY/ena_mpx_nextclade.git
-```
+ ## Download the analysis pipeline 
 
-## Usage
+ ```
+ git clone https://github.com/KhadimGueyeKGY/ena_mpx_nextclade.git
+ ```
 
-```
-python ena_mpx_nextclade.py
-```
+ ## Usage
 
-## Output
+ ```
+ python ena_mpx_nextclade.py
+ ```
+
+ ## Output
+ 
+   * output/nextclade.csv
+   * output/nexclade.tsv
+   * output/tree.json
 
 
